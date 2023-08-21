@@ -14,6 +14,8 @@ public class Class01 {
 
         //version6
         System.out.println("version 6");
+        // version7
+        System.out.println("version 7");
 
     }
 
